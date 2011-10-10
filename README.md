@@ -1,0 +1,1 @@
+compute similarity between short text (sentences)

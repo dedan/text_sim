@@ -1,0 +1,6 @@
+315,316c315,316
+<       }
+<       printf("\n"); /* end of sentence */
+---
+>       }      
+>       fflush(stdout);
